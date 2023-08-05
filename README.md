@@ -1,1 +1,3 @@
 # Quiz
+
+npx shreshth-myquiz
